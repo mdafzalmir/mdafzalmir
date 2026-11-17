@@ -11,10 +11,14 @@
     <img src="https://img.shields.io/badge/-afzl.in-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://x.com/mdafzalmir">
-    <img src="https://img.shields.io/badge/@mdafzalmir-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/mdafzalmir-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.linkedin.com/in/iafzalmir">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://drive.google.com/drive/folders/1oCygTTdi0r3DATuag1_zk5TXiiIbatY3?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 </p>
 
